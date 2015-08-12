@@ -1,0 +1,32 @@
+.header { height:100px; border-bottom:3px solid #022164; text-align:center; font-family: arial; }
+.header .title {color: #d0001e; font-size: 31px;font-weight: 600;text-transform: uppercase;}
+.tag-line { margin-top:10px; font-size:20px;color:#022164;}
+.navigation { height:30px;background-color:#022164;font-weight:bold;}
+.navigation ul li,a {  color: white;float: left;list-style: outside none none; margin-left: 30px;padding-left:52px;padding-top: 2px;text-decoration: none;}
+.content-left { height:400px; width:600px; float:left; }
+.content-right { width:300px; float:right; border:outset 5px #022164; margin:10px; padding-bottom:20px;}
+form,.content-right { text-align: center;line-height: 40px; }
+.submit { background-color: #d0001e; border: medium none; color: white;font-weight: bold; padding: 10px;margin-top: 15px; }
+h3 { color: #d0001e; }    
+textarea { width: 200px; }
+h1{color: #d0001e; font-size: 31px;font-weight: 600;text-transform: uppercase; }
+span {color:black; font-size: 20px;font-weight: 600;text-transform: uppercase;}
+
+tr:nth-child(even) {background-color:#eee;}
+form.update_rec_form {
+  border: 6px double #022164;
+}
+form.update_rec_form label {color:#d0001e;}
+
+
+
+
+
+
+
+
+
+
+
+
+
